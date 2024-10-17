@@ -13,7 +13,7 @@ scrapes & saves random discord users avatars
 
 # usage
 - git clone crime > **git clone https://github.com/unconfiguring/scrape**
-- install requirements in command prompt > **pip install -r requirements.txt** in the directory you installed crime in
+- install requirements in command prompt > **pip install -r requirements.txt** in the directory you installed **scrape** in
 - configure config.json **example below this**
 - scrape.py
 
