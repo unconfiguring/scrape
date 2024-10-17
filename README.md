@@ -14,6 +14,10 @@ scrpes & saves random discord users avatars
 - configure config.json **example below this**
 - scrape.py
 
+**or**
+
+download the pre compiled version in the release section
+
 # example of config.json
 ```js
 {
