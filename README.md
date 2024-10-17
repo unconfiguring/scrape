@@ -1,7 +1,10 @@
 # scrape
-- scrapes random users avatars & saves them
+
+# features
+- scrapes random discord users avatars & saves them
 - useful for realistic token botting
-- real discord users avatars
+- configurable settings
+- filename generation
 
 # usage
 - git clone crime > **git clone https://github.com/unconfiguring/scrape**
