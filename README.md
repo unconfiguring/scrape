@@ -6,6 +6,7 @@ scrpes & saves random discord users avatars
 - useful for realistic token botting
 - configurable settings
 - filename generation
+- open source
 
 # usage
 - git clone crime > **git clone https://github.com/unconfiguring/scrape**
