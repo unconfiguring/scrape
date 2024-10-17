@@ -8,6 +8,9 @@ scrapes & saves random discord users avatars
 - filename generation
 - open source
 
+# requiremnts 
+- python 3.x
+
 # usage
 - git clone crime > **git clone https://github.com/unconfiguring/scrape**
 - install requirements in command prompt > **pip install -r requirements.txt** in the directory you installed crime in
