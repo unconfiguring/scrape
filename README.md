@@ -1,5 +1,5 @@
 # scrape
-scrpes & saves random discord users avatars
+scrapes & saves random discord users avatars
 
 # features
 - scrapes random discord users avatars & saves them
